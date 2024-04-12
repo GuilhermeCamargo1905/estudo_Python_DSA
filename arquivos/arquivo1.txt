@@ -1,0 +1,1 @@
+apenas um teste sobre manipulação de arquivos txt
